@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Dev_da_Pressão</h1>
-<h3 align="center">Passionate about Full Stack Development!</h3>
+<h3 align="center">ANALISTA DE DADOS, APAIXONADO POR DESENVOLVIMENTO!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vdrdv&label=Profile%20views&color=0e75b6&style=flat" alt="vdrdv" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vdrdv" alt="vdrdv" /></a> </p>
 
-- 🌱 I’m currently learning **HTML5, CSS3, JAVASCRIPT, PHP**
+- 🌱 I’m currently learning **HTML5, CSS3, JAVASCRIPT, PHP, PYTHON, SQL, AI, MACHINE LEARNING, BIG DATA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vDrDv](https://github.com/vDrDv)
 
-- 💬 Ask me about **Lavarel, Python, Power Bi, MongoDB, BI, Excel, Node, React.**
+- 💬 Ask me about **Lavarel, Python, Power Bi, MongoDB, BI, Excel, PYTHON**
 
 - 📫 How to reach me **VANDER.DEV@OUTLOOK.COM**
 
