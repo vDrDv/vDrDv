@@ -1,26 +1,25 @@
-<h1 align="center">Hi 👋, I'm Dev_da_Pressão</h1>
-<h3 align="center">ANALISTA DE DADOS, APAIXONADO POR DESENVOLVIMENTO!</h3>
+# 👋 Bem-vindo ao meu Perfil! 👨‍💻
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vdrdv&label=Profile%20views&color=0e75b6&style=flat" alt="vdrdv" /> </p>
+Olá, sou um desenvolvedor apaixonado por criar soluções inovadoras e eficientes para desafios complexos. Minha jornada no mundo da tecnologia me levou a dominar a arte da programação utilizando as linguagens Python e PHP, enquanto minha experiência no setor financeiro adicionou uma camada valiosa de conhecimento à minha trajetória.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vdrdv" alt="vdrdv" /></a> </p>
+## 🚀 Sobre Mim
 
-- 🌱 I’m currently learning **HTML5, CSS3, JAVASCRIPT, PHP, PYTHON, SQL, AI, MACHINE LEARNING, BIG DATA**
+Atualmente atuo no setor financeiro de um banco de renome, onde aproveito meu conhecimento técnico e minha paixão pela inovação para impulsionar o sucesso e alcançar resultados extraordinários. Minha missão é criar soluções que não apenas atendam às necessidades atuais, mas também antecipem os desafios futuros.
 
-- 👨‍💻 All of my projects are available at [https://github.com/vDrDv](https://github.com/vDrDv)
+## 🛠️ Habilidades Técnicas em Destaque
 
-- 💬 Ask me about **Lavarel, Python, Power Bi, MongoDB, BI, Excel, PYTHON**
+- **Desenvolvimento em Python:** Domínio avançado das melhores práticas e frameworks em Python, permitindo-me criar soluções robustas e escaláveis para atender às necessidades dos projetos.
 
-- 📫 How to reach me **VANDER.DEV@OUTLOOK.COM**
+- **Programação em PHP:** Experiência sólida no desenvolvimento de aplicativos web e sistemas usando PHP, garantindo a entrega de soluções poderosas e de alta performance.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/vdrdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vdrdev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/byvanderviana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="byvanderviana" height="30" width="40" /></a>
-<a href="https://instagram.com/devdapressao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devdapressao" height="30" width="40" /></a>
-</p>
+- **SQL:** Conhecimento profundo da linguagem SQL e sua aplicação em bancos de dados, possibilitando a manipulação eficiente de grandes conjuntos de dados e a extração de informações relevantes.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+- **Automatização com RPA:** Sou um entusiasta de RPA (Automação de Processos Robóticos) com Python. Tenho habilidades em criar scripts que automatizam tarefas repetitivas, liberando tempo para atividades mais estratégicas.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vdrdv&show_icons=true&locale=en&layout=compact" alt="vdrdv" /></p>
+## 🏦 Experiência Financeira
+
+Com vasta experiência no setor financeiro, entendo as nuances e complexidades desse domínio. Minha atuação em um banco líder me proporcionou insights valiosos para desenvolver soluções tecnológicas inovadoras que impulsionam a eficiência, a segurança e o crescimento dos negócios financeiros.
+
+## 📫 Entre em Contato
+
+Se você estiver interessado em discutir projetos colaborativos, compartilhar insights ou apenas bater um papo sobre tecnologia e desenvolvimento, sinta-se à vontade para entrar em contato comigo. Estou ansioso para novas conexões!
