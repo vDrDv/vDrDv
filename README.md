@@ -4,7 +4,7 @@ Olá, sou um desenvolvedor apaixonado por criar soluções inovadoras e eficient
 
 ## 🚀 Sobre Mim
 
-Sou um desenvolvedor Jr com ambição e paixão pela tecnologia. Atualmente, trabalho no setor bancário de um grande banco global, onde atuo como desenvolvedor sênior em VBA. Aproveito meu conhecimento técnico e minha paixão pela inovação para impulsionar o sucesso e alcançar resultados extraordinários. Minha missão é criar soluções que não apenas atendam às necessidades atuais, mas também antecipem os desafios futuros.
+Sou um desenvolvedor Jr com ambição e paixão pela tecnologia. Atualmente, trabalho no setor bancário de um grande banco global. Aproveito meu conhecimento técnico e minha paixão pela inovação para impulsionar o sucesso e alcançar resultados extraordinários. Minha missão é criar soluções que não apenas atendam às necessidades atuais, mas também antecipem os desafios futuros.
 
 ## 🛠️ Habilidades Técnicas em Destaque
 
